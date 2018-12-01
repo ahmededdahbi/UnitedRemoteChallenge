@@ -1,4 +1,4 @@
-<b>This project is a solution for the described below : </b>
+<b>This project is a solution for the described problem below : </b>
 
 The coding challenge is about implementing an app that lists shops nearby.
 
